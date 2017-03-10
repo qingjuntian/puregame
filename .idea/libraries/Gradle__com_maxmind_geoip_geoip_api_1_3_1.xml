@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.maxmind.geoip:geoip-api:1.3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.maxmind.geoip/geoip-api/1.3.1/d666bb12763bf2778b865d3bdf81b48715bfaea1/geoip-api-1.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.maxmind.geoip/geoip-api/1.3.1/132ef0e1c27ee4ad0f2054462b661758043dae04/geoip-api-1.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
